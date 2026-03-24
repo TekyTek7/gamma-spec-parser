@@ -37,4 +37,4 @@ For a quick proof-of-concept:
 
 ## Files to deploy
 - `gamma_streamlit_app.py`
-- `requirements_gamma_streamlit.txt`
+- `requirements.txt`
